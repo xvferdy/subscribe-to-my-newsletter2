@@ -4,14 +4,14 @@
   <p align="center">
     Mailchimp Newsletter Sign Up Page 
     <br />
-    <a href="https://github.com/xvferdy/subscribe-to-my-newsletter"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/xvferdy/subscribe-to-my-newsletter2"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://warm-mountain-12994.herokuapp.com">View Demo</a>
     ·
-    <a href="https://github.com/xvferdy/subscribe-to-my-newsletter/issues">Report Bug</a>
+    <a href="https://github.com/xvferdy/subscribe-to-my-newsletter2/issues">Report Bug</a>
     ·
-    <a href="https://github.com/xvferdy/subscribe-to-my-newsletter/issues">Request Feature</a>
+    <a href="https://github.com/xvferdy/subscribe-to-my-newsletter2/issues">Request Feature</a>
   </p>
 
 
@@ -113,5 +113,5 @@ _Full Documentation :point_right: https://devcenter.heroku.com/articles/getting-
 - - - -
 
 <!-- PROJECT SHIELDS -->
-![GitHub contributors](https://img.shields.io/github/contributors-anon/xvferdy/subscribe-to-my-newsletter.svg?color=blue&style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors-anon/xvferdy/subscribe-to-my-newsletter2.svg?color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/xvferdy.svg?label=Follow&style=social)
