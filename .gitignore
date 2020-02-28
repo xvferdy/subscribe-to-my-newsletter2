@@ -1,0 +1,8 @@
+# dependencies
+node_modules/
+
+# ignore files related to API keys
+.env
+
+# miscellaneous
+local-idea.txt
